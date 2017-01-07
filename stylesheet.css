@@ -1,0 +1,13 @@
+body {
+	background-color: lightblue;
+}
+option {
+	border: 1px;
+	background: red;
+}
+
+p {
+	color: navy;
+	font-family: courier;
+	font-size: 130%;
+}
